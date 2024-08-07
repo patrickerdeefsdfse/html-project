@@ -1,0 +1,21 @@
+body{background-image:url("bg.jpg");}
+table{background-color:white;border-color:#E5DAA0;border-width:2px;border-style:solid;}
+.highlight{color:#4E92D8;}
+.one{background-color:#242424;}
+a{color:#747474;}
+a{text-decoration:none;}
+.two{font-family:"Arial";}
+.three{font-family:"Georgia";}
+a:hover{color:#E5DAA0;font-weight:bold;}
+table{margin-top:100px;margin-right:auto;margin-left:auto;margin-bottom:0px;}
+p{line-height:20px;}
+h1{padding-top:30px;}
+.seven{padding-right:50px;padding-left:50px;padding-bottom:50px;}
+ol{padding-right:50px;padding-left:50px;padding-top:0px;}
+t{length:90px;}
+.six{height:90px;}
+<iframe
+src="https://open.spotify.com/embed/track/7qiZfU4dY1lWllzX7mPBI3"
+width="300" height="380" frameborder="0" allowtransparency="true">
+</iframe>
+p{margin:20px;}
